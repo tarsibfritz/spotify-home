@@ -1,4 +1,4 @@
-# Página Home do Spotify
+# ⏯️ Página Home do Spotify
 
 Projeto criado para a Imersão Front-End Alura utilizando HTML, CSS e JavaScript.
 
