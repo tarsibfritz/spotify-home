@@ -8,4 +8,3 @@ Projeto criado para a Imersão Front-End Alura utilizando HTML, CSS e JavaScript
 
 - HTML e CSS
 - JavaScript
-- Git e Github
